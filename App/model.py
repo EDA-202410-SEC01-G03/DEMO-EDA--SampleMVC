@@ -102,6 +102,7 @@ def createTagList(catalog):
 
 
 def addBookTags(catalog, booktagsfile):
+    # TODO: Mods lab 1, completar funcion.
     """
     Esta funcion crea una lista basado en el archivo de booktags. siga
     el mismo procedimiento que la funcion addBooks.

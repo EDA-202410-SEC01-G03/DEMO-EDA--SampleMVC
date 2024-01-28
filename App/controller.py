@@ -81,6 +81,7 @@ def loadTags(control, filename):
 
 
 def loadBooksTags(control, filename):
+    # TODO: Mods lab 1, integración controlador y modelo
     """
     Carga los tags de los libros del archivo y los agrega a la lista
     de tags. Siga el mismo procedimiento que en la carga de libros.
