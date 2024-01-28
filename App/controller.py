@@ -24,6 +24,7 @@
  * Dario Correal - Version inicial
  * Santiago Arteaga - Otras versiones
  """
+ 
 
 import config as cf
 import model
